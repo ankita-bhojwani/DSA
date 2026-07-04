@@ -24,12 +24,12 @@ while(min<=max){
     }
 
     public int isPossible(int[] nums, int mid){
-        int div=0;
+        int sum=0;
         int ans=0;
         for(int i=0;i<nums.length;i++){
-div= (int)Math.ceil((double)nums[i]/mid);
-ans+=div;
+ans=Math.ceilDiv(nums[i],mid);
+sum+=ans;
         }
-        return ans;
+        return sum;
     }
 }
