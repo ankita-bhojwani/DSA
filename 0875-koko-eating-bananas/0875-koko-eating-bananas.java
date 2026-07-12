@@ -2,7 +2,7 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int max=0;
         int low=1;
-        int ans=0;
+        long ans=0;
         int total=0;
 
     for(int i=0;i<piles.length;i++){
@@ -15,7 +15,7 @@ if(piles[i]>max){
 
     while(low<=high){
 int mid=(low+high)/2;
-ans=power(piles,mid,h);
+ans=canEat(piles,mid);
 if(ans<=h){
     total=mid;
     high=mid-1;
@@ -27,10 +27,10 @@ else{
      return total;
     }
 
- public int power(int[] piles,int mid, int h) {
-    int totalhours=0;
+ public long canEat(int[] piles,int mid) {
+    long totalhours=0;
     for(int i=0;i<piles.length;i++){
-  totalhours+=Math.ceil((double)piles[i]/mid);
+ totalhours += (piles[i] + (long)mid - 1) / mid;
     }
   
     return totalhours;
