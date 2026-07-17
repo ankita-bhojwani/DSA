@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ankita-bhojwani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ankita-bhojwani/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ankita-bhojwani/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/ankita-bhojwani/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankita-bhojwani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2643-row-with-maximum-ones](https://github.com/ankita-bhojwani/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ankita-bhojwani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ankita-bhojwani/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ankita-bhojwani/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/ankita-bhojwani/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ankita-bhojwani/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankita-bhojwani/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/ankita-bhojwani/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/ankita-bhojwani/DSA/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
