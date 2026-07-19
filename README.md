@@ -111,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ankita-bhojwani/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/ankita-bhojwani/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/ankita-bhojwani/DSA/tree/master/2643-row-with-maximum-ones) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ankita-bhojwani/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ankita-bhojwani/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
