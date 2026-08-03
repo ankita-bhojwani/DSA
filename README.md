@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ankita-bhojwani/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ankita-bhojwani/DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/ankita-bhojwani/DSA/tree/master/0443-string-compression) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankita-bhojwani/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
