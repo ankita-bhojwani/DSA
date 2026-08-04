@@ -3,19 +3,18 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        char[] arr= s.toCharArray();
-        Arrays.sort(arr);
-        String sorted = new String(arr);
-         char[] arr2= t.toCharArray();
-        Arrays.sort(arr2);
-        String sorted2 = new String(arr2);
+      int count[]= new int[26];
+      for(int i=0;i<s.length();i++){
+count[s.charAt(i)-'a']++;
+count[t.charAt(i)-'a']--;
 
-for(int i=0;i<s.length();i++){
-    if(sorted.charAt(i)!=sorted2.charAt(i)){
-        return false;
-    }
-}
-return true;
-        
+      }
+
+      for(int i=0;i<count.length;i++){
+        if(count[i]!=0){
+            return false;
+        }
+      }
+      return true;
     }
 }
