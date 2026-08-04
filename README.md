@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ankita-bhojwani/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankita-bhojwani/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/ankita-bhojwani/DSA/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ankita-bhojwani/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ankita-bhojwani/DSA/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/ankita-bhojwani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ankita-bhojwani/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankita-bhojwani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankita-bhojwani/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ankita-bhojwani/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ankita-bhojwani/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ankita-bhojwani/DSA/tree/master/0443-string-compression) |
 ## Manacher
 |  |
