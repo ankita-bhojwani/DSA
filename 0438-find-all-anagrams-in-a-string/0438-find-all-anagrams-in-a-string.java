@@ -9,14 +9,16 @@ class Solution {
             pCount[c-'a']++;
         }
 
-for(int i=0;i<=n-k;i++){
-        int[] sCount=new int[26];
-        for(int j=i;j<i+k;j++){
-            sCount[s.charAt(j)-'a']++;
+int[] sCount=new int[26];
+for(int i=0;i<n;i++){
+        
+        sCount[s.charAt(i)-'a']++;
+        if(i>=k){
+            sCount[s.charAt(i-k)-'a']--;
         }
-
+      
         if(Arrays.equals(pCount,sCount)){
-            list.add(i);
+            list.add((i-k)+1);
         }
 }
 return list;
