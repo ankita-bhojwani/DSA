@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ankita-bhojwani/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ankita-bhojwani/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ankita-bhojwani/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/ankita-bhojwani/DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-bhojwani/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Manacher
 |  |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankita-bhojwani/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ankita-bhojwani/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
