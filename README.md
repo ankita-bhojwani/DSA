@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankita-bhojwani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ankita-bhojwani/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ankita-bhojwani/DSA/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita-bhojwani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ankita-bhojwani/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ankita-bhojwani/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ankita-bhojwani/DSA/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-bhojwani/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankita-bhojwani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ankita-bhojwani/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/ankita-bhojwani/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ankita-bhojwani/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ankita-bhojwani/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ankita-bhojwani/DSA/tree/master/0242-valid-anagram) |
