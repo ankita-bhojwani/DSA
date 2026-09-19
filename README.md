@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankita-bhojwani/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankita-bhojwani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ankita-bhojwani/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ankita-bhojwani/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ankita-bhojwani/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/ankita-bhojwani/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankita-bhojwani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ankita-bhojwani/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ankita-bhojwani/DSA/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/ankita-bhojwani/DSA/tree/master/0647-palindromic-substrings) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ankita-bhojwani/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
 |  |
 | ------- |
