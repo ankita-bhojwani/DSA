@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankita-bhojwani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ankita-bhojwani/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ankita-bhojwani/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ankita-bhojwani/DSA/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita-bhojwani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ankita-bhojwani/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ankita-bhojwani/DSA/tree/master/0567-permutation-in-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ankita-bhojwani/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ankita-bhojwani/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ankita-bhojwani/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ankita-bhojwani/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ankita-bhojwani/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ankita-bhojwani/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ankita-bhojwani/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ankita-bhojwani/DSA/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankita-bhojwani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ankita-bhojwani/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ankita-bhojwani/DSA/tree/master/0451-sort-characters-by-frequency) |
